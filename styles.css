@@ -1,0 +1,10 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.banner{
+    background-image: url("wback.jpg");
+    padding: 180px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
